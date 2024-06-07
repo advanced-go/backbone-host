@@ -1,0 +1,10 @@
+github.com/advanced-go/guidance v0.0.0-20240607090837-ecf20f3d588c h1:Xe8oY87B+a+I7tc3ldVVnOkQJWWIsIQeg8lTqqZSAG8=
+github.com/advanced-go/guidance v0.0.0-20240607090837-ecf20f3d588c/go.mod h1:Sg18IPTRx22rbwSZpEKifZbSZQKl7XRJ9RKA5Vl8WJ0=
+github.com/advanced-go/observation v0.0.0-20240607090424-1aafa55f7945 h1:G/KdHB0K3rMazxzoZWcPDahpyoFqrFsgX7ZWsmanh+Y=
+github.com/advanced-go/observation v0.0.0-20240607090424-1aafa55f7945/go.mod h1:42bibkM7vec9+NfUdhiG5ejXTDzEKj585AOFhHC9EFo=
+github.com/advanced-go/search v0.0.0-20240607100129-dd347da73103 h1:tnA4tNh7LPoG+7rocafhP5jMcAweQ0nh3ccVV7k4Bqs=
+github.com/advanced-go/search v0.0.0-20240607100129-dd347da73103/go.mod h1:PJvKy6jarZcmPGkixFcvTnGq9rQXZfxSfhVf6ZTBaXk=
+github.com/advanced-go/stdlib v0.0.0-20240607083544-0491deb5c330 h1:4eovDLcJhnHeW7dXz+13dKSYXdP/B5vxe7fjn6hhhmI=
+github.com/advanced-go/stdlib v0.0.0-20240607083544-0491deb5c330/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
