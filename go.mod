@@ -3,10 +3,21 @@ module github.com/advanced-go/backbone-host
 go 1.21.4
 
 require (
-	github.com/advanced-go/guidance v0.0.0-20240607090837-ecf20f3d588c
-	github.com/advanced-go/observation v0.0.0-20240607090424-1aafa55f7945
-	github.com/advanced-go/search v0.0.0-20240607100129-dd347da73103
-	github.com/advanced-go/stdlib v0.0.0-20240607083544-0491deb5c330
+	github.com/advanced-go/documents v0.0.0-20240612201231-ce6ca40d92e3
+	github.com/advanced-go/guidance v0.0.0-20240622152718-e1cd32fe1d0c
+	github.com/advanced-go/observation v0.0.0-20240629115645-076eba866966
+	github.com/advanced-go/operations v0.0.0-20240628123525-cbc3b92cd4aa
+	github.com/advanced-go/stdlib v0.0.0-20240615001657-ee2f6d5f5d94
 )
 
-require github.com/google/uuid v1.6.0 // indirect
+require (
+	github.com/advanced-go/postgresql v0.0.0-20240616075129-fc362725c643 // indirect
+	github.com/google/uuid v1.6.0 // indirect
+	github.com/jackc/pgpassfile v1.0.0 // indirect
+	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
+	github.com/jackc/pgx/v5 v5.5.0 // indirect
+	github.com/jackc/puddle/v2 v2.2.1 // indirect
+	golang.org/x/crypto v0.9.0 // indirect
+	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/text v0.9.0 // indirect
+)
