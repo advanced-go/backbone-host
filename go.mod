@@ -4,9 +4,9 @@ go 1.21.4
 
 require (
 	github.com/advanced-go/documents v0.0.0-20240612201231-ce6ca40d92e3
-	github.com/advanced-go/guidance v0.0.0-20240622152718-e1cd32fe1d0c
-	github.com/advanced-go/observation v0.0.0-20240629115645-076eba866966
-	github.com/advanced-go/operations v0.0.0-20240628123525-cbc3b92cd4aa
+	github.com/advanced-go/guidance v0.0.0-20240702124939-98bfdcf1427c
+	github.com/advanced-go/observation v0.0.0-20240702124517-9feb34552b9e
+	github.com/advanced-go/operations v0.0.0-20240702124314-340f25c71596
 	github.com/advanced-go/stdlib v0.0.0-20240615001657-ee2f6d5f5d94
 )
 
